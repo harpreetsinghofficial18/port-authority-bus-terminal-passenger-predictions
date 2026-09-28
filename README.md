@@ -73,6 +73,23 @@ Five Power BI dashboard views were developed to communicate forecasts, predictiv
 
 ## Power BI Dashboard
 
+### Dashboard Preview
+
+#### Passenger Forecast: 2026–2030
+![Passenger Forecast](dashboard-preview-1.png)
+
+#### Key Predictive Factors
+![Key Predictive Factors](dashboard-preview-2.png)
+
+#### Carrier-Level Passenger Forecast
+![Carrier-Level Forecast](dashboard-preview-3.png)
+
+#### Busiest Travel Periods
+![Busiest Travel Periods](dashboard-preview-4.png)
+
+#### Recovery vs. 2019 Baseline
+![Recovery vs 2019](dashboard-preview-5.png)
+
 The Power BI dashboard was organized around the five project questions:
 
 1. Passenger Forecast: 2026–2030
